@@ -18,3 +18,7 @@ References
 * Flask Document https://flask.palletsprojects.com/en/1.1.x/api/
 * Stackoverflow Getting values from JSON using Python
  https://stackoverflow.com/questions/12353288/getting-values-from-json-using-python answered by [Lior](https://stackoverflow.com/users/388334/lior)
+ * https://stackoverflow.com/questions/6003884/how-do-i-check-for-null-values-in-javascript answered by [Arshid KV](https://stackoverflow.com/users/2513873/arshid-kv)
+ * https://stackoverflow.com/questions/6418220/javascript-send-json-object-with-ajax answered by [Nathan Romano](https://stackoverflow.com/users/804091/nathan-romano)
+ * https://stackoverflow.com/questions/1973140/parsing-json-from-xmlhttprequest-responsejson answered by [Torben](https://stackoverflow.com/users/398844/torben)
+ * https://stackoverflow.com/questions/4988277/javascript-callback-functions-with-ajax answered by [user113716](https://stackoverflow.com/users/113716/user113716)
