@@ -22,3 +22,4 @@ References
  * https://stackoverflow.com/questions/6418220/javascript-send-json-object-with-ajax answered by [Nathan Romano](https://stackoverflow.com/users/804091/nathan-romano)
  * https://stackoverflow.com/questions/1973140/parsing-json-from-xmlhttprequest-responsejson answered by [Torben](https://stackoverflow.com/users/398844/torben)
  * https://stackoverflow.com/questions/4988277/javascript-callback-functions-with-ajax answered by [user113716](https://stackoverflow.com/users/113716/user113716)
+ * CanvasRenderingContext2D Document https://developer.mozilla.org/zh-CN/docs/Web/API/CanvasRenderingContext2D
