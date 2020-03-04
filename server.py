@@ -74,7 +74,7 @@ def flask_post_json():
 @app.route("/")
 def hello():
     '''Return something coherent here.. perhaps redirect to /static/index.html '''
-    return flask.redirect('/static/index.html' code=301)
+    return flask.redirect('/static/index.html', code=301)
 
 @app.route("/entity/<entity>", methods=['POST','PUT'])
 def update(entity):
