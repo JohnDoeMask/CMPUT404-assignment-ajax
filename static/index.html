@@ -277,9 +277,11 @@ mouse.mouseuppers.push(function(x,y,clicked,e) {
     addEntityWithoutName({'x':x,'y':y,'colour':'#4281A4'});
 });
 
+// Credit to https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
+// author: https://stackoverflow.com/users/383148/francisc
 mouse.mousedraggers.push(function(x,y,clicked,e) {
     addEntityWithoutName({'x':x,'y':y,'colour': '#F4F1BB',
-                          'radius':10});
+                          'radius': Math.floor(Math.random() * 16) + 5});
 });
 
 
