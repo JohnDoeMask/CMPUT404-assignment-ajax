@@ -24,3 +24,4 @@ References
  * https://stackoverflow.com/questions/4988277/javascript-callback-functions-with-ajax answered by [user113716](https://stackoverflow.com/users/113716/user113716)
  * CanvasRenderingContext2D Document https://developer.mozilla.org/zh-CN/docs/Web/API/CanvasRenderingContext2D
  * https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript answered by [Francisc](https://stackoverflow.com/users/383148/francisc)
+ * https://codeburst.io/creating-and-drawing-on-an-html5-canvas-using-javascript-93da75f001c1

@@ -85,7 +85,9 @@ function drawCircle(context,entity) {
         //moveTo(x,y);
         fillStyle = entity["colour"];
         strokeStyle = fillStyle;
-        arc(x, y, (entity["radius"])?entity["radius"]:50, 0, 2.0 * Math.PI, false);
+        // Pacman References: https://codeburst.io/creating-and-drawing-on-an-html5-canvas-using-javascript-93da75f001c1
+        arc(x, y, (entity["radius"])?entity["radius"]:50, 0.1 * Math.PI, 1.85 * Math.PI);
+        lineTo(x,y);
         stroke();
         globalAlpha = 0.2;
         lineJoin = 'bevel';
